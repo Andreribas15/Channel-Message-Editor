@@ -20,7 +20,7 @@ License -> https://github.com/FayasNoushad/Channel-Message-Editor/blob/main/LICE
 <br/>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Channel-Message-Editor">
+  <a href="https://heroku.com/deploy?template=https://github.com/Andreribas15/Channel-Message-Editor">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
